@@ -1,4 +1,4 @@
-module github.com/peterbourgon/diskv/v3
+module github.com/mchtech/diskv/v3
 
 go 1.14
 
