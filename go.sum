@@ -1,2 +1,4 @@
 github.com/google/btree v1.0.0 h1:0udJVsspx3VBr5FwtLhQQtuAsVc79tTq0ocGIPAU6qo=
 github.com/google/btree v1.0.0/go.mod h1:lNA+9X1NB3Zf8V7Ke586lFgjr2dZNuvo3lPJSGZ5JPQ=
+github.com/mchtech/diskv/v3 v3.0.2 h1:61JJWL7bYHlPmnreCDc2U7TRHbo5PqzFLe0hKrG5pM0=
+github.com/mchtech/diskv/v3 v3.0.2/go.mod h1:PGTs2QRSoQ6lwGL9F1O6P/BumWgEBZgooamxOb9sP20=
